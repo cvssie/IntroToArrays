@@ -23,3 +23,14 @@ for name in fruitNames
 //part 9
 print(fruitNames[2])
 
+//part 10 on your own
+var expensiveCars: [String]
+
+expensiveCars = ["Supra", "Ferrari", "Nissan Skyline r34", "Corvette", "Porsche", "Tesla", "Aston Martin", "McLaren"]
+
+for name in expensiveCars
+{
+    print(name + " is a very expensive car")
+}
+
+print(expensiveCars[0])
